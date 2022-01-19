@@ -5,3 +5,4 @@
 Инструменты реализация: 
 
 * Sass
+* hooks: useState, useEffect
