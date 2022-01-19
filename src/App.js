@@ -1,6 +1,7 @@
 import Message from "./components/Message";
 import "./styles/app.scss";
 
+
 function App() {
   const text = "Message";
   return (
