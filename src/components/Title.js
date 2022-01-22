@@ -1,5 +1,7 @@
-const Title = ({ text }) => {
-  return <h1 className="title">{text}</h1>;
+import { TITLE } from "../variables";
+
+const Title = () => {
+  return <h1 className="title">{TITLE}</h1>;
 };
 
 export default Title;

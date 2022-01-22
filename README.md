@@ -5,4 +5,6 @@
 Инструменты реализация: 
 
 * Sass
-* hooks: useState, useEffect
+* hooks: useState, useEffect, useCallback
+* Material UI
+* PropTypes
